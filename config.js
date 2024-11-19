@@ -15,26 +15,26 @@ global.isBaileysFail = false
 
 global.owner = [
   ['5214461281232', 'KeroppiBot', true],
-  ['50671453710', 'Colaborador', true],
-  ['50671453710', 'AntonyxT', true],
+  ['5218129715532', 'Colaborador', true],
+  ['5218129715532', 'AntonyxT', true],
 ];
 
-global.suittag = ['50671453710'];
-global.prems = ['50671453710'];
+global.suittag = ['5218129715532'];
+global.prems = ['5218129715532'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
-global.author = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
-global.wm = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
+global.packname = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
+global.author = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
+global.wm = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
 global.idioma = 'es';
-global.ig = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
-global.etiqueta = 'ACTIVENSE 𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼 BOT LES HABLA';
-global.emojietiqueta = '👑';
-global.titulowm = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
-global.titulowm2 = `𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼`
-global.igfg = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
+global.ig = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
+global.etiqueta = 'ACTIVENSE 𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋 BOT LES HABLA';
+global.emojietiqueta = '👹';
+global.titulowm = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
+global.titulowm2 = `𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋`
+global.igfg = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,12 +54,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼`;
-global.gt = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
-global.mysticbot = '𝙉𝙄𝙆𝙊𝙇𝙎𝙄𝙏𝘼';
-global.channel = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
-global.md = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
-global.mysticbot = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
+global.wm2 = `${dia} ${fecha}\n𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋`;
+global.gt = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
+global.mysticbot = '𝙇𝙎-𝘽𝙊𝙏-𝙑𝙄𝙋';
+global.channel = 'https://chat.whatsapp.com/EzA8kQAmOLz0wGZESYW1wu';
+global.md = 'https://chat.whatsapp.com/EzA8kQAmOLz0wGZESYW1wu';
+global.mysticbot = 'https://chat.whatsapp.com/EzA8kQAmOLz0wGZESYW1wu';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
